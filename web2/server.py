@@ -19,17 +19,28 @@ def route_image():
         return img
 
 
+def route_msg():
+    def page(name):
+        with open('./web2/' + name, encoding='utf-8') as s:
+            return s.read()
+
+    header = 'HTTP/1.x 200 OK \r\nContent-Type: text/html\r\n'
+    # body = '<h1>hello world!!!</h1><img src="/dog.gif"/>'
+    body = page('index.html')
+    r = header + '\r\n' + body
+    return r.encode(encoding='utf-8')
+
+
 def error(code=404):
-    e = {
-        404: b'HTTP/1.1 404 NOT FOUND \r\n\r\n<h1>NOT FOUND</h1>'
-    }
+    e = {404: b'HTTP/1.1 404 NOT FOUND \r\n\r\n<h1>NOT FOUND</h1>'}
     return e.get(code, b'')
 
 
 def response_for_path(path):
     r = {
         '/': route_index,
-        '/dog.gif': route_image
+        '/dog.gif': route_image,
+        '/msg': route_msg
     }
     response = r.get(path, error)
     return response()
@@ -54,5 +65,5 @@ def run(host='', port=3000):
 
 
 if __name__ == '__main__':
-    config = dict(host='', port=2000)
+    config = dict(host='', port=3000)
     run(**config)
