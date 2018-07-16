@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>jinja demo</title>
+</head>
+<body>
+    <h1> {{ name }}</h1>
+    {% for n in numbers %}
+        <span class="number"> {{n}} </span>
+    {% endfor %}
+
+    <div class="user-contain">
+    {% for u in users %}
+        <div class="user-cell">
+            <span>{{u.name}}</span>
+            <span>{{u.id}}</span>
+        </div>
+    {% endfor %}
+    </div>
+</body>
+</html>
