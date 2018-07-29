@@ -1,5 +1,6 @@
 from flask import request, render_template, flash, redirect, Blueprint, url_for
-
+from utils import log
+from models.todo import Todo
 
 # 创建一个 蓝图对象 并且路由定义在蓝图对象中
 # 然后在 flask 主代码中「注册蓝图」来使用
@@ -11,9 +12,7 @@ main = Blueprint('todo', __name__)
 @main.route('/')
 def todo_index():
     # 查找所有的 todo 并返回
-    # todo_list = Todo.all()
-    todo_list = []
-
+    todo_list = Todo.all()
     # flask 已经配置好了 jinja2 模板引擎
     # 并且可以直接使用 render_template 来生成响应数据(http_response)
     return render_template('todo_index.html', todos=todo_list)
@@ -26,11 +25,14 @@ def hello():
 
 @main.route('/add', methods=['POST'])
 def add():
-    # form = request.form
-    # t = Todo.new(form)
+    form = request.form
+    t = Todo.new(form)
+    log(t)
     # t.save()
     # 蓝图中的 url_for 需要加上蓝图的名字，这里是 todo
-    return redirect(url_for('todo.index'))
+    return redirect(url_for('todo.todo_index'))
+    # flask 已经配置好了 jinja2 模板引擎
+    # 并且可以直接使用 render_template 来生成响应数据(http_response)
 
 
 @main.route('/delete/<int:todo_id>/')
@@ -45,8 +47,7 @@ def delete(todo_id):
     动态路由是现在流行的路由设计方案
     """
     # 通过 id 删除 todo
-    # t = Todo.delete(todo_id)
+    t = Todo.delete(todo_id)
     # 引用蓝图内部的路由函数的时候，可以省略名字只用 .
     # 因为我们就在 todo 这个蓝图里面, 所以可以省略 todo
-    # return redirect(url_for('todo.index'))
-    return redirect(url_for('.index'))
+    return redirect(url_for('.todo_index'))

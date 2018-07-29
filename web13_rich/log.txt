@@ -1,0 +1,929 @@
+2018/07/28 17:38:52 ./web13_rich/data/Todo.txt
+2018/07/28 17:38:52 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:38:52 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770428,
+    "ut": 1532770428
+  }
+]
+2018/07/28 17:38:54 ./web13_rich/data/Todo.txt
+2018/07/28 17:38:54 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:38:54 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770428,
+    "ut": 1532770428
+  }
+]
+2018/07/28 17:39:44 ./web13_rich/data/Todo.txt
+2018/07/28 17:39:44 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:39:44 load data []
+2018/07/28 17:39:55 ./web13_rich/data/Todo.txt
+2018/07/28 17:39:55 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:39:55 load data []
+2018/07/28 17:40:33 ./web13_rich/data/Todo.txt
+2018/07/28 17:40:33 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:40:33 load data []
+2018/07/28 17:40:37 ./web13_rich/data/Todo.txt
+2018/07/28 17:40:37 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:40:37 load data []
+2018/07/28 17:40:37 debug save
+2018/07/28 17:40:37 ./web13_rich/data/Todo.txt
+2018/07/28 17:40:37 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:40:37 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:40:37 < Todo
+id: 1
+title: ash
+completed: False
+ct: 1532770837
+ut: 1532770837 
+>
+
+2018/07/28 17:41:06 ./web13_rich/data/Todo.txt
+2018/07/28 17:41:06 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:41:06 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770837,
+    "ut": 1532770837
+  }
+]
+2018/07/28 17:42:44 ./web13_rich/data/Todo.txt
+2018/07/28 17:42:44 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:42:44 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770837,
+    "ut": 1532770837
+  }
+]
+2018/07/28 17:42:44 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532770837, 'ut': 1532770837}
+2018/07/28 17:43:42 ./web13_rich/data/Todo.txt
+2018/07/28 17:43:42 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:43:42 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770837,
+    "ut": 1532770837
+  }
+]
+2018/07/28 17:43:42 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532770837, 'ut': 1532770837}
+2018/07/28 17:44:13 ./web13_rich/data/Todo.txt
+2018/07/28 17:44:13 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:44:13 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770837,
+    "ut": 1532770837
+  }
+]
+2018/07/28 17:44:13 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532770837, 'ut': 1532770837}
+2018/07/28 17:45:54 ./web13_rich/data/Todo.txt
+2018/07/28 17:45:54 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:45:54 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770837,
+    "ut": 1532770837
+  }
+]
+2018/07/28 17:45:54 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532770837, 'ut': 1532770837}
+2018/07/28 17:45:56 ./web13_rich/data/Todo.txt
+2018/07/28 17:45:56 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:45:56 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532770837,
+    "ut": 1532770837
+  }
+]
+2018/07/28 17:45:56 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532770837, 'ut': 1532770837}
+2018/07/28 17:45:56 ./web13_rich/data/Todo.txt
+2018/07/28 17:45:56 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:45:56 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:46:11 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:11 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:11 load data []
+2018/07/28 17:46:11 debug save
+2018/07/28 17:46:11 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:11 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:11 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:46:11 < Todo
+id: 1
+title: aaa
+completed: False
+ct: 1532771171
+ut: 1532771171 
+>
+
+2018/07/28 17:46:14 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:14 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:14 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  }
+]
+2018/07/28 17:46:14 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:46:19 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:19 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:19 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  }
+]
+2018/07/28 17:46:19 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:46:19 debug save
+2018/07/28 17:46:19 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:19 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:19 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:46:19 < Todo
+id: 2
+title: ddd
+completed: False
+ct: 1532771179
+ut: 1532771179 
+>
+
+2018/07/28 17:46:24 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:24 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:24 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  }
+]
+2018/07/28 17:46:24 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:46:24 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:46:30 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:30 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:30 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  }
+]
+2018/07/28 17:46:30 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:46:30 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:46:30 debug save
+2018/07/28 17:46:30 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:30 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:30 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:46:30 < Todo
+id: 3
+title: ddd
+completed: False
+ct: 1532771190
+ut: 1532771190 
+>
+
+2018/07/28 17:46:33 ./web13_rich/data/Todo.txt
+2018/07/28 17:46:33 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:46:33 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  }
+]
+2018/07/28 17:46:33 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:46:33 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:46:33 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:30 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:30 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:30 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  }
+]
+2018/07/28 17:49:30 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:49:30 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:30 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:32 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:32 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:32 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  }
+]
+2018/07/28 17:49:32 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:49:32 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:32 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:34 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:34 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:34 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  }
+]
+2018/07/28 17:49:34 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:49:34 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:34 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:34 debug save
+2018/07/28 17:49:34 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:34 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:34 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:49:34 < Todo
+id: 4
+title: 111
+completed: False
+ct: 1532771374
+ut: 1532771374 
+>
+
+2018/07/28 17:49:34 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:34 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:34 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  },
+  {
+    "id": 4,
+    "title": "111",
+    "completed": false,
+    "ct": 1532771374,
+    "ut": 1532771374
+  }
+]
+2018/07/28 17:49:34 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:49:34 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:34 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:34 {'id': 4, 'title': '111', 'completed': False, 'ct': 1532771374, 'ut': 1532771374}
+2018/07/28 17:49:43 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:43 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:43 load data [
+  {
+    "id": 1,
+    "title": "aaa",
+    "completed": false,
+    "ct": 1532771171,
+    "ut": 1532771171
+  },
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  },
+  {
+    "id": 4,
+    "title": "111",
+    "completed": false,
+    "ct": 1532771374,
+    "ut": 1532771374
+  }
+]
+2018/07/28 17:49:43 {'id': 1, 'title': 'aaa', 'completed': False, 'ct': 1532771171, 'ut': 1532771171}
+2018/07/28 17:49:43 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:43 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:43 {'id': 4, 'title': '111', 'completed': False, 'ct': 1532771374, 'ut': 1532771374}
+2018/07/28 17:49:43 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:43 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:43 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:49:43 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:43 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:43 load data [
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  },
+  {
+    "id": 4,
+    "title": "111",
+    "completed": false,
+    "ct": 1532771374,
+    "ut": 1532771374
+  }
+]
+2018/07/28 17:49:43 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:43 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:43 {'id': 4, 'title': '111', 'completed': False, 'ct': 1532771374, 'ut': 1532771374}
+2018/07/28 17:49:45 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:45 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:45 load data [
+  {
+    "id": 2,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771179,
+    "ut": 1532771179
+  },
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  },
+  {
+    "id": 4,
+    "title": "111",
+    "completed": false,
+    "ct": 1532771374,
+    "ut": 1532771374
+  }
+]
+2018/07/28 17:49:45 {'id': 2, 'title': 'ddd', 'completed': False, 'ct': 1532771179, 'ut': 1532771179}
+2018/07/28 17:49:45 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:45 {'id': 4, 'title': '111', 'completed': False, 'ct': 1532771374, 'ut': 1532771374}
+2018/07/28 17:49:45 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:45 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:45 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:49:45 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:45 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:45 load data [
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  },
+  {
+    "id": 4,
+    "title": "111",
+    "completed": false,
+    "ct": 1532771374,
+    "ut": 1532771374
+  }
+]
+2018/07/28 17:49:45 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:45 {'id': 4, 'title': '111', 'completed': False, 'ct': 1532771374, 'ut': 1532771374}
+2018/07/28 17:49:49 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 load data [
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  },
+  {
+    "id": 4,
+    "title": "111",
+    "completed": false,
+    "ct": 1532771374,
+    "ut": 1532771374
+  }
+]
+2018/07/28 17:49:49 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:49 {'id': 4, 'title': '111', 'completed': False, 'ct': 1532771374, 'ut': 1532771374}
+2018/07/28 17:49:49 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:49:49 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 load data [
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  }
+]
+2018/07/28 17:49:49 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:49 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:49 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:50 load data [
+  {
+    "id": 3,
+    "title": "ddd",
+    "completed": false,
+    "ct": 1532771190,
+    "ut": 1532771190
+  }
+]
+2018/07/28 17:49:50 {'id': 3, 'title': 'ddd', 'completed': False, 'ct': 1532771190, 'ut': 1532771190}
+2018/07/28 17:49:50 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:50 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:50 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:49:50 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:50 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:50 load data []
+2018/07/28 17:49:58 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:58 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:58 load data []
+2018/07/28 17:49:58 debug save
+2018/07/28 17:49:58 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:58 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:58 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:49:58 < Todo
+id: 1
+title: ash
+completed: False
+ct: 1532771398
+ut: 1532771398 
+>
+
+2018/07/28 17:49:58 ./web13_rich/data/Todo.txt
+2018/07/28 17:49:58 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:49:58 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771398,
+    "ut": 1532771398
+  }
+]
+2018/07/28 17:49:58 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771398, 'ut': 1532771398}
+2018/07/28 17:50:39 ./web13_rich/data/Todo.txt
+2018/07/28 17:50:39 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:50:39 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771398,
+    "ut": 1532771398
+  }
+]
+2018/07/28 17:50:39 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771398, 'ut': 1532771398}
+2018/07/28 17:50:39 debug save
+2018/07/28 17:50:39 ./web13_rich/data/Todo.txt
+2018/07/28 17:50:39 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:50:39 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:50:39 < Todo
+id: 2
+title: ash
+completed: False
+ct: 1532771439
+ut: 1532771439 
+>
+
+2018/07/28 17:50:39 ./web13_rich/data/Todo.txt
+2018/07/28 17:50:39 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:50:39 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771398,
+    "ut": 1532771398
+  },
+  {
+    "id": 2,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771439,
+    "ut": 1532771439
+  }
+]
+2018/07/28 17:50:39 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771398, 'ut': 1532771398}
+2018/07/28 17:50:39 {'id': 2, 'title': 'ash', 'completed': False, 'ct': 1532771439, 'ut': 1532771439}
+2018/07/28 17:52:09 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:09 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:09 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771398,
+    "ut": 1532771398
+  },
+  {
+    "id": 2,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771439,
+    "ut": 1532771439
+  }
+]
+2018/07/28 17:52:09 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771398, 'ut': 1532771398}
+2018/07/28 17:52:09 {'id': 2, 'title': 'ash', 'completed': False, 'ct': 1532771439, 'ut': 1532771439}
+2018/07/28 17:52:09 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:09 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:09 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:52:09 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:09 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:09 load data [
+  {
+    "id": 2,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771439,
+    "ut": 1532771439
+  }
+]
+2018/07/28 17:52:09 {'id': 2, 'title': 'ash', 'completed': False, 'ct': 1532771439, 'ut': 1532771439}
+2018/07/28 17:52:10 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:10 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:10 load data [
+  {
+    "id": 2,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771439,
+    "ut": 1532771439
+  }
+]
+2018/07/28 17:52:10 {'id': 2, 'title': 'ash', 'completed': False, 'ct': 1532771439, 'ut': 1532771439}
+2018/07/28 17:52:10 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:10 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:10 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:52:10 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:10 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:10 load data []
+2018/07/28 17:52:56 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:56 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:56 load data []
+2018/07/28 17:52:56 debug save
+2018/07/28 17:52:56 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:56 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:56 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 17:52:56 < Todo
+id: 1
+title: ash
+completed: False
+ct: 1532771576
+ut: 1532771576 
+>
+
+2018/07/28 17:52:56 ./web13_rich/data/Todo.txt
+2018/07/28 17:52:56 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 17:52:56 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771576,
+    "ut": 1532771576
+  }
+]
+2018/07/28 17:52:56 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771576, 'ut': 1532771576}
+2018/07/28 18:05:58 ./web13_rich/data/Todo.txt
+2018/07/28 18:05:58 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:05:58 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771576,
+    "ut": 1532771576
+  }
+]
+2018/07/28 18:05:58 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771576, 'ut': 1532771576}
+2018/07/28 18:06:00 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:00 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:00 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771576,
+    "ut": 1532771576
+  }
+]
+2018/07/28 18:06:00 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771576, 'ut': 1532771576}
+2018/07/28 18:06:02 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:02 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:02 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532771576,
+    "ut": 1532771576
+  }
+]
+2018/07/28 18:06:02 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532771576, 'ut': 1532771576}
+2018/07/28 18:06:02 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:02 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:02 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 18:06:02 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:02 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:02 load data []
+2018/07/28 18:06:04 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:04 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:04 load data []
+2018/07/28 18:06:04 debug save
+2018/07/28 18:06:04 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:04 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:04 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/28 18:06:04 < Todo
+id: 1
+title: ash
+completed: False
+ct: 1532772364
+ut: 1532772364 
+>
+
+2018/07/28 18:06:04 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:04 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:04 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364
+  }
+]
+2018/07/28 18:06:04 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364}
+2018/07/28 18:06:21 ./web13_rich/data/Todo.txt
+2018/07/28 18:06:21 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/28 18:06:21 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364
+  }
+]
+2018/07/28 18:06:21 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364}
+2018/07/29 09:57:13 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:13 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:13 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364
+  }
+]
+2018/07/29 09:57:13 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364}
+2018/07/29 09:57:21 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:21 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:21 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364
+  }
+]
+2018/07/29 09:57:21 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364}
+2018/07/29 09:57:23 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:23 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:23 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364
+  }
+]
+2018/07/29 09:57:23 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364}
+2018/07/29 09:57:28 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:28 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:28 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364
+  }
+]
+2018/07/29 09:57:28 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364}
+2018/07/29 09:57:28 debug save
+2018/07/29 09:57:28 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:28 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:28 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/29 09:57:28 < Todo
+id: 2
+title: ll
+completed: False
+ct: 1532829448
+ut: 1532829448 
+>
+
+2018/07/29 09:57:28 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:28 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:28 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/29 09:57:28"
+  },
+  {
+    "id": 2,
+    "title": "ll",
+    "completed": false,
+    "ct": 1532829448,
+    "ut": 1532829448
+  }
+]
+2018/07/29 09:57:28 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
+2018/07/29 09:57:28 {'id': 2, 'title': 'll', 'completed': False, 'ct': 1532829448, 'ut': 1532829448}
+2018/07/29 09:57:31 ./web13_rich/data/Todo.txt
+2018/07/29 09:57:31 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:57:31 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/29 09:57:28"
+  },
+  {
+    "id": 2,
+    "title": "ll",
+    "completed": false,
+    "ct": 1532829448,
+    "ut": 1532829448
+  }
+]
+2018/07/29 09:57:31 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
+2018/07/29 09:57:31 {'id': 2, 'title': 'll', 'completed': False, 'ct': 1532829448, 'ut': 1532829448}
+2018/07/29 09:58:19 ./web13_rich/data/Todo.txt
+2018/07/29 09:58:19 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:58:19 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/29 09:57:28"
+  },
+  {
+    "id": 2,
+    "title": "ll",
+    "completed": false,
+    "ct": 1532829448,
+    "ut": 1532829448
+  }
+]
+2018/07/29 09:58:19 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
+2018/07/29 09:58:56 ./web13_rich/data/Todo.txt
+2018/07/29 09:58:56 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 09:58:56 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/29 09:57:28"
+  },
+  {
+    "id": 2,
+    "title": "ll",
+    "completed": false,
+    "ct": 1532829448,
+    "ut": 1532829448
+  }
+]
+2018/07/29 09:58:56 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
+2018/07/29 09:58:56 {'id': 2, 'title': 'll', 'completed': False, 'ct': 1532829448, 'ut': 1532829448}
