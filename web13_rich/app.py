@@ -13,4 +13,4 @@ app.secret_key = 'random string'
 app.register_blueprint(main, url_prefix='/todo')
 
 if __name__ == "__main__":
-    app.run(host='localhost', port=5000, debug=True)
+    app.run(debug=True)

@@ -1,5 +1,5 @@
 from flask import request, render_template, flash, redirect, Blueprint, url_for
-from utils import log
+# from utils import log
 from models.todo import Todo
 
 # 创建一个 蓝图对象 并且路由定义在蓝图对象中
@@ -27,7 +27,7 @@ def hello():
 def add():
     form = request.form
     t = Todo.new(form)
-    log(t)
+    # log(t)
     # t.save()
     # 蓝图中的 url_for 需要加上蓝图的名字，这里是 todo
     return redirect(url_for('todo.todo_index'))
@@ -35,7 +35,7 @@ def add():
     # 并且可以直接使用 render_template 来生成响应数据(http_response)
 
 
-@main.route('/delete/<int:todo_id>/')
+@main.route('/delete/<int:todo_id>/', methods=['GET'])
 def delete(todo_id):
     """
     <int:todo_id> 的方式可以匹配一个 int 类型

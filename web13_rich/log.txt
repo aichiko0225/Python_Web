@@ -927,3 +927,61 @@ ut: 1532829448
 ]
 2018/07/29 09:58:56 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
 2018/07/29 09:58:56 {'id': 2, 'title': 'll', 'completed': False, 'ct': 1532829448, 'ut': 1532829448}
+2018/07/29 10:50:37 ./web13_rich/data/Todo.txt
+2018/07/29 10:50:37 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 10:50:37 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/29 09:57:28"
+  },
+  {
+    "id": 2,
+    "title": "ll",
+    "completed": false,
+    "ct": 1532829448,
+    "ut": 1532829448
+  }
+]
+2018/07/29 10:50:37 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
+2018/07/29 10:50:37 {'id': 2, 'title': 'll', 'completed': False, 'ct': 1532829448, 'ut': 1532829448}
+2018/07/29 10:51:31 ./web13_rich/data/Todo.txt
+2018/07/29 10:51:31 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 10:51:31 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/29 09:57:28"
+  },
+  {
+    "id": 2,
+    "title": "ll",
+    "completed": false,
+    "ct": 1532829448,
+    "ut": 1532829448
+  }
+]
+2018/07/29 10:51:31 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/29 09:57:28'}
+2018/07/29 10:51:31 {'id': 2, 'title': 'll', 'completed': False, 'ct': 1532829448, 'ut': 1532829448}
+2018/07/29 10:51:31 ./web13_rich/data/Todo.txt
+2018/07/29 10:51:31 save data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 10:51:31 save data <_io.TextIOWrapper name='./web13_rich/data/Todo.txt' mode='w+' encoding='utf-8'>
+2018/07/29 10:51:31 ./web13_rich/data/Todo.txt
+2018/07/29 10:51:31 load data path ==  ./web13_rich/data/Todo.txt
+2018/07/29 10:51:31 load data [
+  {
+    "id": 1,
+    "title": "ash",
+    "completed": false,
+    "ct": 1532772364,
+    "ut": 1532772364,
+    "dt": "2018/07/28 18:06:04"
+  }
+]
+2018/07/29 10:51:31 {'id': 1, 'title': 'ash', 'completed': False, 'ct': 1532772364, 'ut': 1532772364, 'dt': '2018/07/28 18:06:04'}

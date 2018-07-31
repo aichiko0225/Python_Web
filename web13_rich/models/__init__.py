@@ -1,6 +1,6 @@
 import json
 # import time
-from utils import log
+# from utils import log
 
 
 def save(data, path):
@@ -9,17 +9,17 @@ def save(data, path):
     path 是保存文件的路径
     """
     s = json.dumps(data, indent=2, ensure_ascii=False)
-    log('save data path == ', path)
+    # log('save data path == ', path)
     with open(path, 'w+', encoding='utf-8') as f:
-        log('save data', f)
+        # log('save data', f)
         f.write(s)
 
 
 def load(path):
-    log('load data path == ', path)
+    # log('load data path == ', path)
     with open(path, 'r', encoding='utf-8') as f:
         s = f.read()
-        log('load data', s)
+        # log('load data', s)
         return json.loads(s)
 
 # Model 是一个 ORM（object relation mapper）
@@ -43,7 +43,6 @@ class Model(object):
         """
         classname = cls.__name__
         path = './web13_rich/data/{}.txt'.format(classname)
-        log(path)
         return path
 
     @classmethod
@@ -51,7 +50,7 @@ class Model(object):
         # 因为子元素的 __init__ 需要一个 form 参数
         # 所以这个给一个空字典
         m = cls({})
-        log(d)
+        # log(d)
         for k, v in d.items():
             # setattr 是一个特殊的函数
             # 假设 k v 分别是 'name'  'gua'
@@ -75,7 +74,7 @@ class Model(object):
     @classmethod
     def find_all(cls, **kwargs):
         ms = []
-        log('kwargs, ', kwargs, type(kwargs))
+        # log('kwargs, ', kwargs, type(kwargs))
         k, v = '', ''
         for key, value in kwargs.items():
             k = key
@@ -93,7 +92,7 @@ class Model(object):
         用法如下，kwargs 是只有一个元素的 dict
         u = User.find_by(username='ash')
         """
-        log('kwargs, ', kwargs, type(kwargs))
+        # log('kwargs, ', kwargs, type(kwargs))
         k, v = '', ''
         for key, value in kwargs.items():
             k = key
@@ -152,7 +151,7 @@ class Model(object):
         把 self 添加进去并且保存进文件
         """
         models = self.all()
-        log('debug save')
+        # log('debug save')
         # log('models', models)
         # 如果没有 id，说明是新添加的元素
         if self.id is None:
@@ -170,7 +169,7 @@ class Model(object):
                 if m.id == self.id:
                     index = i
                     break
-            log('debug', index)
+            # log('debug', index)
             models[index] = self
         m_list = [m.__dict__ for m in models]
         path = self.db_path()
