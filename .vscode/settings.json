@@ -3,16 +3,18 @@
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": ["--max-line-length=248"],
     "python.linting.pylintEnabled": false,
-    "python.pythonPath": "/usr/local/Cellar/python/3.7.0",
-    "python.unitTest.unittestArgs": [
+    // "python.pythonPath": "venv/bin/python",
+    "python.pythonPath": "/usr/bin/python3",
+    "python.testing.unittestArgs": [
       "-v",
       "-s",
       ".",
       "-p",
       "test*.py"
     ],
-    "python.unitTest.unittestEnabled": false,
-    "python.unitTest.promptToConfigure": false,
-    "python.unitTest.pyTestEnabled": false,
-    "python.unitTest.nosetestsEnabled": false
+    "python.testing.unittestEnabled": false,
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.linting.enabled": true
   }
